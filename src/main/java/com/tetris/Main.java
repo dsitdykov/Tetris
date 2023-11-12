@@ -9,6 +9,8 @@ public class Main {
     static long score;
     static boolean gameover = false;
 
+    //test
+    
     public static void main(String[] args) {
         JFrame f = new JFrame("Tetris");
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
