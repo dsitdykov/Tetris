@@ -8,12 +8,7 @@ public class Main {
 
     static long score;
     static boolean gameover = false;
-
-<<<<<<< Updated upstream
-=======
-    //test 2
     
->>>>>>> Stashed changes
     public static void main(String[] args) {
         JFrame f = new JFrame("Tetris");
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
